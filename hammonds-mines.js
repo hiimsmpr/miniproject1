@@ -31,8 +31,6 @@ const nicaragua = {
  * PART 3
  */
 
-// do your work for part 3 HERE!!!
-
 const hammondsMines = {
   buenos_aires: {
     depth: '400 meters',
@@ -45,3 +43,6 @@ const hammondsMines = {
     specimens: ['Gallimimus', 'Parasaurolophus'],
   },
 };
+
+// do your work for part 3 HERE!!!
+
